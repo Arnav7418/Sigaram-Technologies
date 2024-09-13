@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159698504803",
+    "project_id": "sgrm-3f922",
+    "storage_bucket": "sgrm-3f922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159698504803:android:8c9273ab97f87cc1e87c56",
+        "android_client_info": {
+          "package_name": "com.sgrmtech.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nytcaOll7ChIeaQVSD0VfSrJ8hzUVwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
